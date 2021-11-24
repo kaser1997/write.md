@@ -15,6 +15,7 @@ https://getcomposer.org/Composer-Setup.exe
 - open cmd and write
  - 1-composer global require laravel/installer
  - 2-laravel new blog
+- open cmd and open Folder "blog"
  - 3-php artisan serve
  - 4-http://127.0.0.1:8000
 
