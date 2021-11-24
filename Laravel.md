@@ -16,13 +16,13 @@
 - open cmd and write
 
         composer global require laravel/installer
-    
+ -   
         laravel new blog
     
 - open cmd and open Folder "blog"
  
         php artisan serve
-    
+ -   
         http://127.0.0.1:8000
 
 ## View
