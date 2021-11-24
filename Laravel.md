@@ -20,7 +20,8 @@
     
 - open cmd and open Folder "blog"
  
-        php artisan serve [Run](http://127.0.0.1:8000)
+        php artisan serve 
+    [run](http://127.0.0.1:8000)
 
 ## View
 
