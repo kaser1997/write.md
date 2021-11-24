@@ -3,16 +3,13 @@
 
  - Laravel is a php framework.
  - To install Laravel on your device, all you have to do is use Composer.
- - Documentation [Download]
-  `(https://laravel.com/docs/8.x/installation)`
+ - Documentation [Download](https://laravel.com/docs/8.x/installation)
 ## Contents
 
 [TOC]
-##  install php [Download]
-`(https://www.php.net/distributions/php-8.0.13.tar.gz)`
+##  install php [Download](https://www.php.net/distributions/php-8.0.13.tar.gz)
 
-##  install Composer [Download]
-`(https://getcomposer.org/Composer-Setup.exe)`
+##  install Composer [Download](https://getcomposer.org/Composer-Setup.exe)
 
 ## install laravel
 - open cmd and write
@@ -23,9 +20,7 @@
     
 - open cmd and open Folder "blog"
  
-        php artisan serve [Run]
- -   
-        `(http://127.0.0.1:8000)`
+        php artisan serve [Run](http://127.0.0.1:8000)
 
 ## View
 
@@ -38,7 +33,5 @@
          return "Hello World From Laravel";
          });
 
- - 4-open in Browser
- - 
-        http://127.0.0.1:8000/page-link
+ - 4- [open](http://127.0.0.1:8000/page-link)
     
