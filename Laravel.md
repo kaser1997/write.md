@@ -25,4 +25,4 @@
 
 [run](http://127.0.0.1:8000)
 
-  ![laravel](https://user-images.githubusercontent.com/92294770/143275745-53883831-4585-4c2e-96d5-6d0a2a6e9f4a.png)
+
