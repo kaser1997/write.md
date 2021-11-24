@@ -14,11 +14,16 @@
 
 ## install laravel
 - open cmd and write
- - 1-`composer global require laravel/installer`
- - 2-`laravel new blog`
+
+    `composer global require laravel/installer`
+    
+    `laravel new blog`
+    
 - open cmd and open Folder "blog"
- - 3-`php artisan serve`
- - 4-`http://127.0.0.1:8000`
+ 
+    `php artisan serve`
+    
+    `http://127.0.0.1:8000`
 
 ## View
 
@@ -26,8 +31,11 @@
  - 1-write (code .)
  - 2-All directions can be found in the following path: routes/web.php
  - 3-and write
- `Route::get('page-link' , function(){
+ - 
+     `Route::get('page-link' , function(){
    return "Hello World From Laravel";
 });`
+
  - 4-open in Browser
- - `http://127.0.0.1:8000/page-link`
+    `http://127.0.0.1:8000/page-link`
+    
